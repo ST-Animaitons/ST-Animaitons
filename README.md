@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ST-Animaitons.
+- 👀 I’m interested in coding, video game, and animation.
+- 🌱 I’m currently learning JavaScript.
